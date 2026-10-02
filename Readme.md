@@ -1,5 +1,8 @@
 # DeepRead
 
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/73e09d33-64b1-4bfd-b203-4d5bee27db9c" />
+
+
 DeepRead is a neural network for handwriting recognition built on NLP and OpenCV. Using PyTorch, the model analyses the letters drawn by the user on a virtual canvas and instantly predicts them.
 
 ## Installation and Setup
